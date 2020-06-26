@@ -1,5 +1,5 @@
 # Library-Management-in-java
-library management Desktop APP made with Java, Swing, PHP and passion, here you will find what your looking for
+library management Desktop APP made with Java, Swing, SQL and passion, here you will find what your looking for
 ![Screenshot from 2020-06-17 11-15-42](https://user-images.githubusercontent.com/17449630/85719012-f78a7100-b6e6-11ea-98cf-598f1f34835f.png)
 ![Screenshot from 2020-06-17 11-15-51](https://user-images.githubusercontent.com/17449630/85719015-f8230780-b6e6-11ea-93d9-5e11af732c16.png)
 ![Screenshot from 2020-06-17 11-17-38](https://user-images.githubusercontent.com/17449630/85719019-f8bb9e00-b6e6-11ea-836d-2f466ac14db1.png)
